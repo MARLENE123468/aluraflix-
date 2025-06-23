@@ -4,4 +4,8 @@ body{
     font-family:  "Noto Serif JP"sans-serif;
     margin:0px;
 head {
-    background-color: rgb(8, 243, 133);
+    border-bottom: solid 2px rgb(7, 107, 238);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(4, 68, 153);
+    background-color: rgb(6, 175, 96);
