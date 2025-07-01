@@ -3,10 +3,13 @@ body{
     background-color: rgb(209, 188, 206);
     font-family:  "Noto Serif JP"sans-serif;
     margin: 22px;
-head {
+section[
+
+
     border-bottom: solid 2px rgb(4, 60, 134);
     padding: 20px;
     font-size: 32px;
     color: rgb(4, 68, 153);
     background-color: rgb(6, 175, 96);
-    scroll-snap-destination: ;
+]
+ 
